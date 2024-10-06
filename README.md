@@ -1,1 +1,1 @@
-# -Forecasting-hotel-booking-cancellations
+# Forecasting hotel booking cancellations
